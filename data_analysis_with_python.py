@@ -21,7 +21,7 @@
 # Matematiksel İşlemler (Mathematical Operations)
 
 #############################################
-# Neden NumPy?
+# Neden NumPy? Bu dosya
 #############################################
 import numpy as np
 a = [1, 2, 3, 4]
